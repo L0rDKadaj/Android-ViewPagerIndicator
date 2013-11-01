@@ -1,6 +1,7 @@
 #Android generated
 bin
 gen
+build/
 
 #Eclipse
 .project
@@ -21,3 +22,7 @@ pom.xml.*
 local.properties
 build.xml
 proguard-project.txt
+
+.gradle/
+gradle
+
